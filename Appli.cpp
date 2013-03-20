@@ -2,6 +2,8 @@
 #include "GenieLog.cpp"
 using namespace std;
 
+/*Appli*/
+
 void operation(char signe, nb1, nb2)
 {
 	char signe, signe2;
