@@ -2,7 +2,7 @@
 #include "GenieLog.cpp"
 using namespace std;
 
-/*Appli*/
+/*Appli test*/
 
 void operation(char signe, nb1, nb2)
 {
