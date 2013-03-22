@@ -1,12 +1,21 @@
+/**
+* \file GenieLog.cpp
+* \brief Fichier contenant le menu de l'application
+* \author Flaus Mathias
+* \version v1
+* \date 20/03/2013
+*Ce fichier contient le menu correspondant a l'application
+*/
 #include <iostream>
 #include "GenieLog.cpp"
 using namespace std;
 
-/*Appli test*/
-test
-void operation(char signe, nb1, nb2)
+/**
+*La fonction Operation selectionne en fonction de l'utilisateur
+*/
+void operation(bool signe, nb1, nb2)
 {
-	char signe, signe2;
+	bool signe, signe2;
 	string S1, S2;
 	
 	if(signe=='+')
