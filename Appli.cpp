@@ -3,7 +3,7 @@
 using namespace std;
 
 /*Appli test*/
-
+test
 void operation(char signe, nb1, nb2)
 {
 	char signe, signe2;
